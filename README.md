@@ -1,5 +1,8 @@
 # better-scraper
 
+![CI](https://github.com/criminact/better-scraper/actions/workflows/pypi-build.yml/badge.svg)
+[![PyPI version](https://img.shields.io/pypi/v/better-scraper.svg)](https://pypi.org/project/better-scraper/)
+
 A Python library to search the web using DuckDuckGo, rerank results with LLMs (OpenAI/Gemini), and optionally generate summarized answers from web content.
 
 ## Features
