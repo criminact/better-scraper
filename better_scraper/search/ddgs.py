@@ -1,6 +1,6 @@
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Optional
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 from .base import BaseSearcher
 from .rerank import KeywordReranker, EmbeddingReranker
 from better_scraper.llm.openai import OpenAIEngine
