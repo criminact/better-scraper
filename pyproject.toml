@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "better-scraper"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple Python library to search the web using DuckDuckGo and return summarized results."
 authors = [
     { name="xriminact", email="hammeerraj@gmail.com" }
